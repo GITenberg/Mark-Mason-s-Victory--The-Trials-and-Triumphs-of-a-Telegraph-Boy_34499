@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34499#Mark-Mason-s-Victory--The-Trials-and-Triumphs-of-a-Telegraph-Boy
 gutenberg_issued: '2010-11-29'
 gutenberg_type: Text
 identifiers:
